@@ -23,6 +23,6 @@ pip install -r requirements.txt
 ### Build .exe file
 1) Build.
 ```shell
-pyinstaller --uac-admin --onefile --windowed --icon=logo.ico --name=WexB main.py
+pyinstaller --uac-admin --onefile --windowed --icon=logo.ico --name=WriteBlock main.py
 ```
 2) It is created in the dist directory
