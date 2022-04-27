@@ -2,7 +2,6 @@
 
 ### Windows external storage write blocking software
 
-- Python, PyQt
 - external storage write blocking software
 - Manipulate Windows registry
 - Using PyQt6 for GUI
