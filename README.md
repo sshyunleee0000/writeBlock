@@ -2,6 +2,12 @@
 
 ### Windows external storage write blocking software
 
+- Python, PyQt
+- external storage write blocking software
+- Manipulate Windows registry
+- Using PyQt6 for GUI
+- Can build .exe file with Pyinstaller
+
 ### Tested environments
 1) OS: Windows 7 and later
 2) Python: 3.7.0 and later
