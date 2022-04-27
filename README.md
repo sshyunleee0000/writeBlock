@@ -2,7 +2,6 @@
 
 ### Windows external storage write blocking software
 
-- external storage write blocking software
 - Manipulate Windows registry
 - Using PyQt6 for GUI
 - Can build .exe file with Pyinstaller
